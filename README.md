@@ -1,4 +1,5 @@
 # Wildfire Detection System
+Engineering Design, Tinkercad, C++, Circuit Diagram, and 3D-Printing
 
 ## License
 
