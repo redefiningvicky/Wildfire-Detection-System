@@ -3,7 +3,7 @@
 // #include <Wire.h>
 // #include <LiquidCrystal_I2C.h>
 
-// color sensor pins wiring to Arduino
+// Color sensor pins wiring to Arduino
 #define S0 4
 #define S1 5
 #define S2 6
@@ -24,11 +24,11 @@ float voltage;
 float tempC;
 float prVal;
 
-// soil sensor
+// Soil sensor
 int SoilSensor = 2;
 int soilSensorVal;
 
-// smoke detector
+// Smoke detector
 int gasVal;
 int safety_li = 60; //sets smoke density safe limit
 
