@@ -1,4 +1,4 @@
-# 🔥 Wildfire Detection System
+# 🔥 Wildfire Detection System: Utilizing LED RGB, Temperature, and Color Sensors
 ## 🎯 Objective <br>
 ## 🛠️ Tools <br>
 • Language: C++ <p>
